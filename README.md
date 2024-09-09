@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentino Flori</h1>
-<h3 align="center">I am passionate about programming, I am from Argentina, at this moment I am learning C language</h3>
+<h3 align="center">I am passionate about programming, I am from Argentina, at this moment I am learning C language.</h3>
 
 - 🌱 I’m currently learning **C**
 
